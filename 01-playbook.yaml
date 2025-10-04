@@ -2,5 +2,5 @@
   hosts: frontend
   become: true
   tasks:
-    - name: ping
-      ansible.builtin.ping:
+  - name: ping # here you can see, syntax issue
+    ansible.builtin.ping:
