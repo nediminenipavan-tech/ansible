@@ -1,0 +1,44 @@
+ - name: "pavankumar m"
+   dob: "01-01-01"
+   age: 21
+   addresses:
+     #Object
+     - doorN0: 4-32
+       street: "gandhi nagar"
+       city: hyderabad
+       pin: 534565
+       type: current
+
+     - doorNo: 4-32
+       street: "gandhi nagar"
+       city: hyderabad
+       pin: 534565
+       type: perm
+       Skills:
+     - java
+     - devops
+     - cloud
+
+ - name: "ramesh"
+   dob: "01-01-01"
+   age: 21
+   addresses:
+     #Object
+     - doorN0: 4-32
+       street: "gandhi nagar"
+       city: hyderabad
+       pin: 534565
+       type: current
+
+     - doorNo: 4-32
+       street: "gandhi nagar"
+       city: hyderabad
+       pin: 534565
+       type: perm
+       Skills:
+     - java
+     - devops
+     - cloud
+
+
+
